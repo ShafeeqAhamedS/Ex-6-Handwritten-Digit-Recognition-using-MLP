@@ -225,17 +225,19 @@ get_accuracy(dev_predictions, Y_dev)
 
 ## Output
 ### Y_train 
-![ytrain](./y.jpeg)
+![y](https://user-images.githubusercontent.com/93427237/204799233-3761fdc8-75d8-415e-8984-07f177ff0e61.jpeg)
+
 ### Gradient Descent
-![gd1](./gd1.jpeg)
-![gd2](./gd2.jpeg)
+![gd1](https://user-images.githubusercontent.com/93427237/204799290-a0d4c967-d385-4e70-8653-17ec681d1632.jpeg)
+![gd2](https://user-images.githubusercontent.com/93427237/204799266-0f468828-bb28-4ee2-a35f-947f98cfdb38.jpeg)
+
 ### Test Predictions
-![p1](./p1.jpeg)
-![p2](./p2.jpeg)
-![p3](./p3.jpeg)
-![p4](./p4.jpeg)
+![p1](https://user-images.githubusercontent.com/93427237/204799339-7b373f72-ca87-4ea5-90e8-e31e74617139.jpeg)
+![p2](https://user-images.githubusercontent.com/93427237/204799353-23eff6a2-ec2e-42ac-ae0d-751d70e72435.jpeg)
+![p3](https://user-images.githubusercontent.com/93427237/204799386-0ccf717b-aa5c-4b7a-bae9-f808f2cba70e.jpeg)
+![p4](https://user-images.githubusercontent.com/93427237/204799409-6aac310f-bd4b-46aa-8e4f-a98fc622c04e.jpeg)
 ### Accuracy
-![acc](./acc.jpeg)
+![acc](https://user-images.githubusercontent.com/93427237/204799318-9b430d32-2a1d-44dd-8a83-18cbd35473c0.jpeg)
 
 ## Result:
 Thus, a MLP is created to recognize the handwritten digits
