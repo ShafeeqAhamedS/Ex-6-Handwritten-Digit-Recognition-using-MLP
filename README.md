@@ -1,9 +1,7 @@
-# Ex-6-Handwritten Digit Recognition using MLP
+# Handwritten Digit Recognition using MLP
 ## Aim:
 To Recognize the Handwritten Digits using Multilayer perceptron.
-##  EQUIPMENTS REQUIRED:
-* Hardware – PCs
-* Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
+
 ## Theory:
 * We have used an MLP to recognize the digits
 * A multilayer perceptron (MLP) is a feedforward artificial neural network that generates a set of outputs from a set of inputs. An MLP is characterized by several layers of input nodes connected as a directed graph between the input and output layers. MLP uses back propagation for training the network. MLP is a deep learning method.
